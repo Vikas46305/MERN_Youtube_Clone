@@ -1,4 +1,4 @@
-# MERN_Youtube_Clone
+# Youtube_Backend_Clone
 ## 🔧 Tech Stack
 Backend Framework: Express.js
 Database: MongoDB with Mongoose ODM
